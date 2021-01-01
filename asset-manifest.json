@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/oblivion-fiesta/static/css/main.57d22db1.chunk.css",
+    "main.js": "/oblivion-fiesta/static/js/main.9c37090c.chunk.js",
+    "main.js.map": "/oblivion-fiesta/static/js/main.9c37090c.chunk.js.map",
+    "runtime-main.js": "/oblivion-fiesta/static/js/runtime-main.b1db7b63.js",
+    "runtime-main.js.map": "/oblivion-fiesta/static/js/runtime-main.b1db7b63.js.map",
+    "static/css/2.a7f8a3c0.chunk.css": "/oblivion-fiesta/static/css/2.a7f8a3c0.chunk.css",
+    "static/js/2.9517a484.chunk.js": "/oblivion-fiesta/static/js/2.9517a484.chunk.js",
+    "static/js/2.9517a484.chunk.js.map": "/oblivion-fiesta/static/js/2.9517a484.chunk.js.map",
+    "static/js/3.5218428c.chunk.js": "/oblivion-fiesta/static/js/3.5218428c.chunk.js",
+    "static/js/3.5218428c.chunk.js.map": "/oblivion-fiesta/static/js/3.5218428c.chunk.js.map",
+    "index.html": "/oblivion-fiesta/index.html",
+    "static/css/2.a7f8a3c0.chunk.css.map": "/oblivion-fiesta/static/css/2.a7f8a3c0.chunk.css.map",
+    "static/css/main.57d22db1.chunk.css.map": "/oblivion-fiesta/static/css/main.57d22db1.chunk.css.map",
+    "static/js/2.9517a484.chunk.js.LICENSE.txt": "/oblivion-fiesta/static/js/2.9517a484.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1db7b63.js",
+    "static/css/2.a7f8a3c0.chunk.css",
+    "static/js/2.9517a484.chunk.js",
+    "static/css/main.57d22db1.chunk.css",
+    "static/js/main.9c37090c.chunk.js"
+  ]
+}
